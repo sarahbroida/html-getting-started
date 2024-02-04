@@ -1,1 +1,53 @@
 /* Add screen styles below */
+body {
+    background: #1B2021;
+    margin-top: 100px;
+}
+
+.card {
+    background: #F7EDF0;
+    color: #1B2021;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 13px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    font-family: 'Josefin Sans';
+}
+
+.card div {
+    padding-left: 21px;
+}
+
+h1 {
+    background: #F4AFAB;
+    margin: 0;
+    padding: 21px;
+    border-radius: 13px 13px 0 0;
+}
+
+h2 {
+    font-size: 32px;
+    color: #51513D;
+    padding-top: 10px;
+}
+
+p {
+    color: #F4AFAB;
+    font-size: 24px;
+    letter-spacing: 1px;
+    padding-top: -10px;
+    line-height: 0px;
+}
+
+ul {
+    color: #1B2021;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 0px;
+}
+
+img {
+    float: left;
+    margin-right: 21px;
+}
